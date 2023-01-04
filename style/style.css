@@ -1,0 +1,65 @@
+div.klasa1
+{
+    border-width: 10px;
+    border-style: groove;
+    border-color: silver;
+    margin: 50px 40px;
+    padding: 15px 10px;
+    text-align: center;
+}
+div.klasa2
+{
+    border-width: 16px 14px 12px 18px;
+    border-style: double dotted solid dashed;
+    border-color: red blue olive navy;
+    margin: 20px 30px;
+    padding: 20px;
+}
+ul.klasa3
+{
+    list-style-type: square;
+    list-style-position: outside;
+}
+ul.klasa4
+{
+    list-style-type: disc;
+    list-style-position: outside;
+}
+ul.klasa5
+{
+    list-style-type: circle;
+    list-style-position: outside;
+}
+div.klasa6
+{
+border-width: 8mm 4mm 7mm 6mm;
+border-style: ridge groove inset outset;
+border-color: green fuchsia yellow aqua;
+margin: 150px 30px 130px 30px;
+padding: 35px;
+}
+ul.klasa7
+{
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+ul.klasa8
+{
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+}
+ul.klasa9
+{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+ul.klasa10
+{
+    list-style-type: lower-alpha;
+    list-style-position: inside;
+}
+ul.klasa11
+{
+    list-style-type: lower-roman;
+    list-style-position: inside;
+}
